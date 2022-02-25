@@ -1,2 +1,3 @@
 Hello world!
 Lorem ipsum.
+This is more text
